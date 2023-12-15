@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Richiewebs
+- 👋 Hi, I’m Richelle
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on Frontend development projects
 - 📫 How to reach me on asmahrichelle9@gmail.com
 
